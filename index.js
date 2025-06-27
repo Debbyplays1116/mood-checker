@@ -21,10 +21,13 @@ else if (mood=="anxious"){
     response="😤calm down breath in and out"
 }
 else if (mood=="jealous"){
-    response="🥰 dont be remember you are special so dont be jealous "
+    response="🥰 dont be remember you are special so dont be jealous of any one "
 }
 else if (mood=="deppressed"){
     response="😁dont be lets get those smiles up"
+}
+else if (mood=="bored"){
+    response="😁dont let anything stop you fun"
 }
 else{
     response="🤔 Hmm... I’m not sure how to respond to that"
