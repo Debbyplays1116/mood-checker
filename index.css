@@ -1,0 +1,46 @@
+h2{
+    text-align: center;
+    font-style: italic;
+    font-size: xx-large;
+    color: deeppink;
+    background-color: palevioletred;
+}
+button{
+    color: cornflowerblue;
+    border: 1px solid deeppink;
+    text-align: center;
+    align-items: center;
+    font-size: x-large;
+    font-style: italic;
+    width: 8rem;
+    height: 2rem;
+    border-radius: 10px;
+}
+#response{
+    align-items: center;
+    color:deeppink;
+    font-style: italic;
+    font-size: 3em;
+}
+input{
+    align-items: center;
+    font-size: x-large;
+    font-style: italic;
+    border:deeppink;
+    text-align: center;
+    width: 80%;
+    border-radius: 10px;
+    height: 3rem;
+}
+body{
+    background-color:lightpink;
+    text-align: center;
+}
+div{
+    border-radius: 10px;
+    width: 80%;
+    text-align: center;
+    background-color: palevioletred;
+    height: 80vh;
+    margin-left: 10rem;
+}
