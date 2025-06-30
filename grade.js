@@ -12,8 +12,11 @@ else if(score>=70){
 else if(score>=50){
     response="C"
 }
-else {
+else if(score<=50){
     response="F"
+}
+else{
+    response="sorry its out of my range"
 }
 document.getElementById("response").innerHTML= response
 }
