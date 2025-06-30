@@ -15,7 +15,7 @@ else if (mood=="tired"){
     response="😴 Time to get some rest!"
 }
 else if (mood=="angry"){
-    response="👌sorry to hear that but now calm down and breath 😤 in and out"
+    response="👌sorry to hear that but now calm down and breath"
 }
 else if (mood=="anxious"){
     response="😤calm down breath in and out"
@@ -28,6 +28,15 @@ else if (mood=="deppressed"){
 }
 else if (mood=="bored"){
     response="😁dont let anything stop you fun"
+}
+else if(mood=="embarrassed"){
+    response="👍 Regain your confidence and shine "
+}
+else if(mood=="disgusted"){
+    response="😷sorry, calm down and breath"
+}
+else if(mood=="gogolastic"){
+    response="my brother calm down"
 }
 else{
     response="🤔 Hmm... I’m not sure how to respond to that"
